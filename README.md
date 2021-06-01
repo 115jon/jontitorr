@@ -10,7 +10,7 @@
   <br>I'm currently working on learning as much as I can, 
   whilst also gaining a deeper understanding of those I already know.
   
-  I've been doing Python since December of 2019, and consider myself to be quite proficient in the language. Beyond that, though, I've found myself to really enjoy Java, so that's something I'll be doing more of.
+  I've been doing Python since I can remember, and consider myself to be quite proficient in the language. Beyond that, though, I've found myself to still learn new things everyday and will continue to work in this language.
   
   My longest-running project is a Discord bot called `King`, which you 
   can check out [here](https://github.com/Xminent/discord-bot).
