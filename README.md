@@ -13,5 +13,5 @@
   I've been doing Python since I can remember, and consider myself to be quite proficient in the language. Beyond that, though, I've found myself to still learn new things everyday and will continue to work in this language.
   
   My longest-running project is a Discord bot called `King`, which you 
-  can check out [here](https://github.com/Xminent/discord-bot).
+  can check out [here](https://github.com/Xminent/king).
 </p>
