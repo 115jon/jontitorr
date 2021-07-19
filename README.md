@@ -8,7 +8,7 @@
   
   ### Hi I'm Xminent, an 18 year old that loves to program
   <p align="left">
-    <img width="400" src="img/luffy.gif" />
+    <img width="300" src="img/luffy.gif" />
   </a>
   </p>
   
