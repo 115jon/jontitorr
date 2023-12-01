@@ -1,6 +1,12 @@
-# 👋 Hi, I'm Jonathan
+# Jonathan Martinez (Xminent)
 
 I am a passioned software developer who loves to learn and create.
+
+<div>
+<a href="https://www.xminent.com" target="_blank" rel="noopener noreferrer" width="50%">
+<img src="https://img.shields.io/badge/Website-www.xminent.com-blue?style=flat-square">
+</a>
+</div>
 
 Want to work on something together? Feel free to [reach out to me](#-reach-out-to-me)!
 
