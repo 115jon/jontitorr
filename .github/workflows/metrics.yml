@@ -10,7 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      - uses: lowlighter/metrics@v3.29
+      - name: "Activity"
+        uses: lowlighter/metrics@v3.29
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
@@ -18,3 +19,12 @@ jobs:
           config_timezone: America/Chicago
           plugin_followup: true
           plugin_followup_sections: user
+      - name: "Code Snippet"
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.code.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_code: yes
+          plugin_code_languages: cpp, rust, typescript
+          plugin_code_load: 400

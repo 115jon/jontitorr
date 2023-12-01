@@ -1,6 +1,6 @@
 # Jonathan Martinez (Xminent)
 
-I am a passioned software developer who loves to learn and create.
+FLOSS developer interested in C++, Rust, and web development.
 
 <div>
 <a href="https://www.xminent.com" target="_blank" rel="noopener noreferrer" width="50%">
@@ -10,9 +10,10 @@ I am a passioned software developer who loves to learn and create.
 
 Want to work on something together? Feel free to [reach out to me](#-reach-out-to-me)!
 
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+<div style="display: flex;">
+  <img src="/github-metrics.svg" style="flex: 1;" alt="Activity">
+  <img src="/metrics.plugin.code.svg" style="flex: 1;" alt="Code Snippet">
+</div>
 
 ### 📫 Reach out to me
 
