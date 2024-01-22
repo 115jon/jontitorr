@@ -1,4 +1,4 @@
-# Jonathan Martinez (Xminent)
+# Jonathan Martinez (jontitorr)
 
 FLOSS developer interested in C++, Rust, and web development.
 
@@ -17,8 +17,8 @@ Want to work on something together? Feel free to [reach out to me](#-reach-out-t
 
 ### 📫 Reach out to me
 
-- 🐥 Twitter: [**@xminent**](https://twitter.com/xminent)
+- 🐥 Twitter: [**@jontitorr**](https://twitter.com/jontitorr)
 - 🔗 LinkedIn: [**linkedin.com/in/jonathanmartinezdev**](https://www.linkedin.com/in/jonathanmartinezdev/)
-- 💬 Discord: [**@xminent**](https://discordapp.com/users/155780111197536256)
+- 💬 Discord: [**@jontitor.**](https://discordapp.com/users/155780111197536256)
 
 ### 👇👇👇 Check out some of my projects 👇👇👇
