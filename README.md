@@ -4,7 +4,7 @@ FLOSS developer interested in C++, Rust, and web development.
 
 <div>
 <a href="https://jontitor.com" target="_blank" rel="noopener noreferrer" width="50%">
-<img src="https://img.shields.io/badge/Website-www.xminent.com-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Website-www.jontitor.com-blue?style=flat-square">
 </a>
 </div>
 
